@@ -1,0 +1,53 @@
+﻿  main.cpp
+D:\Nadejda\Project 5\main.cpp(665,34): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+D:\Nadejda\Project 5\main.cpp(665,28): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+D:\Nadejda\Project 5\main.cpp(672,34): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+D:\Nadejda\Project 5\main.cpp(672,28): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+D:\Nadejda\Project 5\main.cpp(876,1): warning C4250: Weapon: наследуется "IAnimable::IAnimable::loadTexture" через превосходство
+D:\Nadejda\Project 5\main.cpp(480,7): message : см. объявление "IAnimable::loadTexture"
+D:\Nadejda\Project 5\main.cpp(792,43): warning C4244: аргумент: преобразование "T" в "int", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+D:\Nadejda\Project 5\main.cpp(791,49): warning C4244: аргумент: преобразование "T" в "int", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+D:\Nadejda\Project 5\main.cpp(803,43): warning C4244: аргумент: преобразование "T" в "int", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+D:\Nadejda\Project 5\main.cpp(802,49): warning C4244: аргумент: преобразование "T" в "int", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+D:\Nadejda\Project 5\main.cpp(814,48): warning C4244: аргумент: преобразование "T" в "int", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+D:\Nadejda\Project 5\main.cpp(813,43): warning C4244: аргумент: преобразование "T" в "int", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+D:\Nadejda\Project 5\main.cpp(825,48): warning C4244: аргумент: преобразование "T" в "int", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+D:\Nadejda\Project 5\main.cpp(824,43): warning C4244: аргумент: преобразование "T" в "int", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+D:\Nadejda\Project 5\main.cpp(725): warning C4715: AttackingEffect::UpdateAnim: значение возвращается не при всех путях выполнения
+D:\Nadejda\Project 5\main.cpp(119): warning C4715: AdvList<Denizen>::GetById: значение возвращается не при всех путях выполнения
+D:\Nadejda\Project 5\main.cpp(119): warning C4715: AdvList<Item>::GetById: значение возвращается не при всех путях выполнения
+D:\Nadejda\Project 5\main.cpp(119): warning C4715: AdvList<Effect>::GetById: значение возвращается не при всех путях выполнения
+D:\Nadejda\Project 5\main.cpp(843): warning C4715: Weapon::UpdateAnim: значение возвращается не при всех путях выполнения
+  Project 5.vcxproj -> D:\Nadejda\Project 5\x64\Debug\Project 5.exe
